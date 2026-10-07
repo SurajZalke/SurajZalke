@@ -43,102 +43,215 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```typescript
-const surajZalke = {
-    title: "AI Developer & Software Engineer 🚀",
-    location: "Washim, Maharashtra, India 🇮🇳",
-    education: "Computer Science Engineering 🎓",
-    experience: "3+ Years",
-    projects: "5+ Major Projects",
-    
-    mission: "I BUILD INTELLIGENT SYSTEMS.",
-    focus: "Building software that understands context, makes decisions, and verifies outcomes",
-    
-    specialization: [
-        "🤖 Artificial Intelligence & Agentic Systems",
-        "👁️ Computer Vision & Image Processing",
-        "🎙️ Voice Interfaces & Speech Recognition",
-        "⚙️ Automation & Workflow Systems",
-        "🌐 Full-Stack Web Development"
-    ],
-    
-    achievements: [
-        "Built 4+ major AI applications used by thousands of students",
-        "Developed computer vision systems processing thousands of documents",
-        "Created responsive web apps serving hundreds of concurrent users",
-        "Designed end-to-end intelligent systems with verification layers"
-    ],
-    
-    philosophy: "Input → Understanding → Reasoning → Planning → Action → Verification",
-    motto: "A system should understand what it's doing and verify it actually succeeded 💫"
-};
-```
-
-### 🎯 What I Do
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🤖 AI & Machine Learning
-- ✅ Agentic AI Systems
-- ✅ LLM Integration & Prompt Engineering
-- ✅ Transformers & Hugging Face
-- ✅ AI-Powered Applications
-- ✅ Intent Classification
+### 🎯 Quick Intro
+
+```javascript
+const developer = {
+  name: "Suraj Zalke",
+  role: "AI Developer & Software Engineer",
+  mission: "I BUILD INTELLIGENT SYSTEMS",
+  location: "🇮🇳 Washim, Maharashtra, India",
+  
+  stats: {
+    experience: "3+ Years",
+    projects: "5+ Major Applications",
+    users: "Thousands Served",
+    languages: ["Python", "JavaScript", "TypeScript"]
+  },
+  
+  currentlyWorking: "Building AI systems that think",
+  learning: "Advanced Agentic AI Architecture",
+  openTo: "Internships & Collaborations"
+};
+```
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=3%2B+Years+of+Experience;5%2B+Major+Projects+Delivered;Thousands+of+Users+Served;AI+%26+Full-Stack+Specialist;Always+Learning+%26+Building" alt="Typing Animation" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 👁️ Computer Vision
-- ✅ Image Processing (OpenCV)
-- ✅ OCR & Document Analysis
-- ✅ Object Detection
-- ✅ OMR Automation
-- ✅ Real-time Vision Applications
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 
 </td>
 </tr>
+</table>
+
+</div>
+
+<br/>
+
+### 💡 What I Build
+
+<table>
 <tr>
-<td width="50%">
-
-#### 🌐 Full-Stack Development
-- ✅ React.js & Next.js
-- ✅ TypeScript & Modern JavaScript
-- ✅ REST API Development
-- ✅ Firebase & Cloud Integration
-- ✅ Responsive & Accessible Design
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" alt="AI" width="64" />
+<br/><b>AI Systems</b>
+<br/>
+<sub>Agentic AI, LLMs, Transformers</sub>
 </td>
-<td width="50%">
-
-#### ⚙️ Automation & Systems
-- ✅ Workflow Automation (PyAutoGUI)
-- ✅ System Integration
-- ✅ Voice Interfaces
-- ✅ Shell Scripting
-- ✅ Action Execution & Verification
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/visible.png" alt="Vision" width="64" />
+<br/><b>Computer Vision</b>
+<br/>
+<sub>OpenCV, OCR, Object Detection</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/web.png" alt="Web" width="64" />
+<br/><b>Full-Stack Web</b>
+<br/>
+<sub>React, Node.js, TypeScript</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/microphone.png" alt="Voice" width="64" />
+<br/><b>Voice Systems</b>
+<br/>
+<sub>Speech Recognition, NLP</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/workflow.png" alt="Automation" width="64" />
+<br/><b>Automation</b>
+<br/>
+<sub>Workflows, System Integration</sub>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 🎯 Engineering Philosophy
+### 🌟 My Specialization
 
 <div align="center">
 
+```mermaid
+mindmap
+  root((Suraj Zalke))
+    AI & ML
+      Agentic Systems
+      LLM Integration
+      Prompt Engineering
+      Transformers
+    Computer Vision
+      OpenCV
+      Image Processing
+      OCR & OMR
+      Object Detection
+    Full Stack
+      React & Next.js
+      Node.js & Express
+      Firebase
+      REST APIs
+    Automation
+      PyAutoGUI
+      Workflow Systems
+      Voice Interfaces
+      System Integration
 ```
-Input → Understanding → Reasoning → Planning → Action → Verification
-```
-
-**"A system should not simply perform an action.  
-It should understand what it's doing and verify whether it actually succeeded."**
 
 </div>
+
+<br/>
+
+### 🏆 Impact & Achievements
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Projects" />
+<br/>
+<h3>5+</h3>
+<sub><b>Major Projects</b><br/>Production Applications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/crowd.png" alt="Users" />
+<br/>
+<h3>1000s</h3>
+<sub><b>Users Served</b><br/>Across Applications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/document.png" alt="Documents" />
+<br/>
+<h3>1000s</h3>
+<sub><b>Documents Processed</b><br/>Computer Vision Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" alt="Experience" />
+<br/>
+<h3>3+</h3>
+<sub><b>Years Experience</b><br/>AI & Development</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 System Building Philosophy
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  INPUT → UNDERSTAND → REASON → PLAN → ACT → VERIFY        │
+│                                                             │
+│  "A system should not just perform an action.              │
+│   It should understand what it's doing and verify          │
+│   whether it actually succeeded."                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+### 📚 Currently
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🔭 Working On
+```yaml
+- SK AI Assistant
+- Computer Vision Tools
+- Educational Platforms
+- Automation Systems
+```
+
+</td>
+<td width="33%" align="center">
+
+#### 🌱 Learning
+```yaml
+- Advanced Agentic AI
+- System Architecture
+- Real-time Processing
+- Cloud Infrastructure
+```
+
+</td>
+<td width="33%" align="center">
+
+#### 🤝 Open To
+```yaml
+- Internship Roles
+- Collaboration
+- Open Source
+- Freelance Projects
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
