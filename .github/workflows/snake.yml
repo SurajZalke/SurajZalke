@@ -15,6 +15,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   generate:
@@ -22,6 +24,10 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
       # Generate the snake animation
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -33,11 +39,19 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
+      # Show generated files for debugging
+      - name: Show output
+        run: |
+          ls -la dist/
+          echo "Files generated successfully!"
+      
       # Push the generated files to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
