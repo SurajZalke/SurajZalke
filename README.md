@@ -25,7 +25,22 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="28%" align="center" valign="middle">
+
+<img src="assets/certificates/PHOTO.png" width="200" alt="Suraj Zalke" />
+
+<h3>Suraj Zalke</h3>
+<b>AI Developer & Software Engineer</b>
+<br/>
+<sub>🇮🇳 Maharashtra, India</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/B.E._CSE-Pursuing-00D9FF?style=flat-square" alt="Education" />
+<img src="https://img.shields.io/badge/Open_To-Internships-4CAF50?style=flat-square" alt="Open to" />
+
+</td>
+<td width="72%" valign="middle">
 
 ```javascript
 const developer = {
@@ -43,46 +58,45 @@ const developer = {
 };
 ```
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Full-Stack+Developer;Building+Agentic+AI+Systems;Always+Learning+%26+Building" alt="Typing Animation" />
 </div>
+
+</td>
+</tr>
+</table>
 
 ### 💡 What I Build
 
-<div align="center">
-
+<table width="100%">
+<tr>
+<td align="center" width="20%" valign="top">
 <img src="https://img.icons8.com/fluency/96/000000/brain.png" alt="AI" width="56" />
-
-**AI Systems**
-<br/><sub>Agentic AI · LLM integration · Prompt engineering</sub>
-
-<br/>
-
+<br/><b>AI Systems</b>
+<br/><sub>Agentic AI · LLMs · Prompt Engineering</sub>
+</td>
+<td align="center" width="20%" valign="top">
 <img src="https://img.icons8.com/fluency/96/000000/visible.png" alt="Vision" width="56" />
-
-**Computer Vision**
-<br/><sub>OpenCV · OCR · OMR · Image processing</sub>
-
-<br/>
-
+<br/><b>Computer Vision</b>
+<br/><sub>OpenCV · OCR · OMR</sub>
+</td>
+<td align="center" width="20%" valign="top">
 <img src="https://img.icons8.com/fluency/96/000000/web.png" alt="Web" width="56" />
-
-**Full-Stack Web**
-<br/><sub>React · Next.js · Node.js · TypeScript · Firebase</sub>
-
-<br/>
-
+<br/><b>Full-Stack Web</b>
+<br/><sub>React · Next.js · Node.js · TypeScript</sub>
+</td>
+<td align="center" width="20%" valign="top">
 <img src="https://img.icons8.com/fluency/96/000000/microphone.png" alt="Voice" width="56" />
-
-**Voice Systems**
-<br/><sub>Speech recognition · NLP · Voice interfaces</sub>
-
-<br/>
-
+<br/><b>Voice Systems</b>
+<br/><sub>Speech Recognition · NLP</sub>
+</td>
+<td align="center" width="20%" valign="top">
 <img src="https://img.icons8.com/fluency/96/000000/workflow.png" alt="Automation" width="56" />
-
-**Automation**
-<br/><sub>PyAutoGUI · Workflows · System integration</sub>
-
-</div>
+<br/><b>Automation</b>
+<br/><sub>PyAutoGUI · Workflows</sub>
+</td>
+</tr>
+</table>
 
 ### 🌟 My Specialization
 
@@ -131,7 +145,9 @@ mindmap
 
 ### 📚 Currently
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
 **🔭 Working On**
 ```yaml
@@ -141,6 +157,9 @@ mindmap
 - Automation Systems
 ```
 
+</td>
+<td width="33%" align="center" valign="top">
+
 **🌱 Learning**
 ```yaml
 - Advanced Agentic AI
@@ -148,6 +167,9 @@ mindmap
 - Real-time Processing
 - Cloud Infrastructure
 ```
+
+</td>
+<td width="33%" align="center" valign="top">
 
 **🤝 Open To**
 ```yaml
@@ -157,46 +179,83 @@ mindmap
 - Freelance Projects
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-### AI & Machine Learning
+<b>🤖 AI & Machine Learning</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=3" alt="AI/ML" />
-<br/>
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Agentic_AI-00D9FF?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
 
-### Computer Vision
+</td>
+<td width="50%" align="center" valign="top">
+
+<b>👁️ Computer Vision</b>
+<br/><br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/RapidOCR-FF6B6B?style=for-the-badge&logo=tesseract&logoColor=white" alt="RapidOCR" />
+<br/>
 <img src="https://img.shields.io/badge/Image_Processing-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Processing" />
 
-### Languages
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<b>💻 Languages</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark&perline=5" alt="Languages" />
 
-### Frontend
+</td>
+<td width="50%" align="center" valign="top">
+
+<b>🎨 Frontend</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind&theme=dark&perline=4" alt="Frontend" />
 
-### Backend & Databases
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<b>⚙️ Backend & Database</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark&perline=3" alt="Backend" />
 
-### Automation
+</td>
+<td width="50%" align="center" valign="top">
+
+<b>🤖 Automation</b>
+<br/><br/>
 <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
-<img src="https://img.shields.io/badge/Workflow_Automation-00D9FF?style=for-the-badge&logo=python&logoColor=white" alt="Workflow Automation" />
 <img src="https://img.shields.io/badge/Shell_Scripts-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripts" />
 
-### Tools & Deployment
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<b>🧰 Tools & Deployment</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,vercel,netlify&theme=dark&perline=8" alt="Tools" />
 
-</div>
+</td>
+</tr>
+</table>
 
 <!-- NOTE: I removed icons for C, C++, Java, Flask, FastAPI, MongoDB, MySQL, SQLite, Figma, Android Studio, Heroku, Bootstrap, Material UI
      because none of them show up in your repos. Add any back that you have really used in a project. -->
@@ -205,52 +264,59 @@ mindmap
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 SK AI Assistant
 
-<img src="https://img.shields.io/badge/Status-Private_Repository-FF6B6B?style=flat-square&logo=lock&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Flagship_Project-00D9FF?style=flat-square&logo=star&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Private-FF6B6B?style=flat-square&logo=lock&logoColor=white" />
+<img src="https://img.shields.io/badge/Flagship-Project-00D9FF?style=flat-square&logo=star&logoColor=white" />
 
-Voice-controlled AI assistant with agentic planning and tool orchestration (in private development; demo available on request).
+Voice-controlled AI assistant with agentic planning and tool orchestration. Demo available on request.
 
-```text
-Voice/Text → Intent → SK Brain → Agentic Planner → Tool Orchestration → Verify → Response
-```
+<sub><b>Flow:</b> Voice/Text → Intent → Planner → Tools → Verify → Response</sub>
 
-🎙️ Voice Control • 🧠 Agentic Planning • 🛠️ Tool Orchestration • ✅ Auto-Verification • 💾 Context Memory • 👁️ Vision • 🔒 Safety Layer
+🎙️ Voice • 🧠 Planning • 🛠️ Tools • ✅ Verification • 👁️ Vision
 
 `Python` `Speech Recognition` `LLM APIs` `PyAutoGUI` `OpenCV`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 AI Educational Platform
 
 <img src="https://img.shields.io/badge/Status-Live-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Domain-EdTech-00D9FF?style=flat-square" />
 
 Quiz platform for JEE / NEET / CBSE practice with AI-generated MCQs, real-time scoring, and live leaderboards.
 
-📚 AI Quiz Generation • ⏱️ Real-time Scoring • 🏆 Leaderboards • 📊 Analytics Dashboard • 📱 Mobile Responsive
+<sub><b>Flow:</b> Topic → AI MCQs → Attempt → Score → Leaderboard</sub>
+
+📚 AI Quiz • ⏱️ Scoring • 🏆 Leaderboards • 📊 Analytics • 📱 Responsive
 
 `React` `Next.js` `Firebase` `AI APIs` `Real-time DB`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 👁️ Computer Vision OMR Scanner
 
 <img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Domain-Computer_Vision-00D9FF?style=flat-square" />
 
 Optical mark recognition system that reads scanned answer sheets and produces results in batches.
 
-```text
-Scan → Detect Bubbles → Extract Answers → Batch Process → Verify → Report
-```
+<sub><b>Flow:</b> Scan → Detect Bubbles → Extract Answers → Verify → Report</sub>
 
-📄 Bubble Detection • 🔍 OpenCV Pipeline • 📊 Batch Processing • 🎯 Quality-Adaptive
+📄 Detection • 🔍 OpenCV Pipeline • 📊 Batch Processing • 🎯 Quality-Adaptive
 
 `Python` `OpenCV` `RapidOCR` `Image Processing`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 MSP College Advance
 
@@ -259,21 +325,32 @@ Scan → Detect Bubbles → Extract Answers → Batch Process → Verify → Rep
 
 Progressive Web App for college students with academic resources, live updates, and an admission portal.
 
-📚 Academic Hub • 📢 Live Updates • 📴 Offline-First PWA • 🔔 Push Notifications • 📱 Mobile Optimized
+<sub><b>Type:</b> Offline-first PWA with push notifications</sub>
+
+📚 Academic Hub • 📢 Live Updates • 📴 Offline • 🔔 Push • 📱 Mobile
 
 `HTML5` `CSS3` `JavaScript` `Firebase` `Service Workers`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Interactive Portfolio
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-00D9FF?style=flat-square&logo=netlify&logoColor=white)](https://suraj-zalke-protfolio.netlify.app/)
+<img src="https://img.shields.io/badge/Status-Live-4CAF50?style=flat-square" />
 
 Personal portfolio with 3D elements, interactive sections, and smooth transitions.
 
+<sub><b>Type:</b> Interactive 3D portfolio website</sub>
+
+🎨 Three.js • 🔄 Interactive UI • ✨ Animations • 📱 Responsive
+
 `React` `Three.js` `CSS Animations`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏫 PCCOER Portal
 
@@ -281,9 +358,16 @@ Personal portfolio with 3D elements, interactive sections, and smooth transition
 
 Educational portal with AI integration for student information and course management.
 
+<sub><b>Type:</b> Student information portal</sub>
+
+🤖 AI Integration • 📚 Course Management • 🔌 REST APIs
+
 `TypeScript` `React` `REST APIs`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💬 WhatsApp Automation
 
@@ -291,103 +375,167 @@ Educational portal with AI integration for student information and course manage
 
 Automated messaging with bulk operations, scheduling, and contact management.
 
+<sub><b>Type:</b> Messaging automation tool</sub>
+
+📨 Bulk Send • ⏰ Scheduling • 👥 Contacts
+
 `JavaScript` `Node.js` `Automation`
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+### 📂 More Projects
+
+Browse every repository on my GitHub profile.
 
 <br/>
 
-**<a href="https://github.com/SurajZalke?tab=repositories">🔗 Explore All Projects on GitHub →</a>**
+<a href="https://github.com/SurajZalke?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 
-</div>
+</td>
+</tr>
+</table>
 
-<!-- TIP: for each project above, add a real number or a link when you have one, e.g. "used by 120 students at MSP College".
+<!-- TIP: when you have a real number for a project (e.g. "used by 120 students"), add it to that card.
      A real small number is more believable than "1000s". -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SurajZalke&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajZalke&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajZalke&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<!-- I removed the hand-typed "Verified Live Stats" table, the "Achievements" cards and the "Context for Recruiters" note.
-     The live cards above already show your real numbers, and typed-in numbers can go out of date or look unverified. -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SurajZalke&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajZalke&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajZalke&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajZalke&repo=pccoer-portal&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Featured Repo" />
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Certifications & Events
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-### 🎓 Certifications
+📜 <b>Certified Cyber Defense Expert</b>
+<br/>🏢 CCDE Institute
+<br/>📅 April 24, 2025
+<br/><sub>Cybersecurity & defensive protocols</sub>
 
-📜 **Certified Cyber Defense Expert (CCDE)**
-<br/>🏢 CCDE Institute · 📅 April 24, 2025
-<br/><sub>Cybersecurity, defensive protocols, security implementation</sub>
+</td>
+<td width="33%" align="center" valign="top">
 
-📜 **Cybersecurity Assessment Certificate**
-<br/>🏢 LearnTube · 📅 April 27, 2026
+📜 <b>Cybersecurity Assessment</b>
+<br/>🏢 LearnTube
+<br/>📅 April 27, 2026
 <br/><sub>Security evaluation</sub>
 
-📜 **AI Fundamentals**
-<br/>🏢 Coursera (Google) · 📅 2025
-<br/><sub>Machine learning and AI applications</sub>
+</td>
+<td width="33%" align="center" valign="top">
 
-### 🎯 Events
+📜 <b>AI Fundamentals</b>
+<br/>🏢 Coursera (Google)
+<br/>📅 2025
+<br/><sub>Machine learning & AI applications</sub>
 
-🎪 **The Agentic Shift** · GDGoC PCCOE&R · 1 Oct 2026
-<br/>🎪 **Let's Git it** · GDGoC PCCOE&R · 30 Sep 2026
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" valign="top">
 
-<br/>
+🎪 <b>The Agentic Shift</b> · GDGoC PCCOE&R · 1 Oct 2026 &nbsp;&nbsp;|&nbsp;&nbsp; 🎪 <b>Let's Git it</b> · GDGoC PCCOE&R · 30 Sep 2026
 
-<details open>
-<summary><b>📸 Certificate Gallery (click to collapse)</b></summary>
+</td>
+</tr>
+</table>
 
-<br/>
+### 📸 Certificate Gallery
 
-**🔐 CCDE Cybersecurity Expert** · *April 2025*
-<br/><img src="assets/certificates/CYBER.jpeg" width="600" alt="CCDE Cybersecurity Certificate" />
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<br/>
+<b>🔐 CCDE Cybersecurity Expert</b>
+<br/><sub>CCDE Institute · April 2025</sub>
+<br/><br/>
+<img src="assets/certificates/CYBER.jpeg" width="100%" alt="CCDE Cybersecurity Certificate" />
 
-**🤖 Google AI Fundamentals** · *2025*
-<br/><img src="assets/certificates/GOOGLE.jpeg" width="600" alt="Google AI Fundamentals Certificate" />
+</td>
+<td width="50%" align="center" valign="top">
 
-<br/>
+<b>🤖 Google AI Fundamentals</b>
+<br/><sub>Coursera (Google) · 2025</sub>
+<br/><br/>
+<img src="assets/certificates/GOOGLE.jpeg" width="100%" alt="Google AI Fundamentals Certificate" />
 
-**⚡ The Agentic Shift** · *Oct 1, 2026*
-<br/><img src="assets/certificates/gdgoc-the-agentic-shift.jpg" width="600" alt="The Agentic Shift Certificate" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<br/>
+<b>⚡ The Agentic Shift</b>
+<br/><sub>GDGoC PCCOE&R · Oct 1, 2026</sub>
+<br/><br/>
+<img src="assets/certificates/gdgoc-the-agentic-shift.jpg" width="100%" alt="The Agentic Shift Certificate" />
 
-**🔧 Let's Git it** · *Sep 30, 2026*
-<br/><img src="assets/certificates/gdgoc-lets-git-it.jpg" width="600" alt="Let's Git it Certificate" />
+</td>
+<td width="50%" align="center" valign="top">
 
-</details>
+<b>🔧 Let's Git it</b>
+<br/><sub>GDGoC PCCOE&R · Sep 30, 2026</sub>
+<br/><br/>
+<img src="assets/certificates/gdgoc-lets-git-it.jpg" width="100%" alt="Let's Git it Certificate" />
 
-</div>
+</td>
+</tr>
+</table>
 
-<!-- NOTE: the CCDE credential ID started with "PREVIEW", so I removed it from the page. Add a real verification link here if you have one. -->
+<!-- NOTE: the CCDE credential ID started with "PREVIEW", so I removed it from the page. Add a real verification link if you have one. -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎓 Education
+## 🎓 Education & Goals
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Computer Science Engineering
+### 🎓 Education
 
-*Currently pursuing*
+**B.E. Computer Science Engineering** *(currently pursuing)*
 
-Focus areas: Artificial Intelligence & Machine Learning · Computer Vision & Image Processing · Automation Systems · System Design
+Focus areas:
+<br/>• Artificial Intelligence & Machine Learning
+<br/>• Computer Vision & Image Processing
+<br/>• Automation Systems
+<br/>• System Design & Architecture
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 💡 What I'm Looking For
+
+<b>💻 Full-Stack Development</b> — internship & contract roles
+<br/><b>🤖 AI / ML Projects</b> — intelligent system development
+<br/><b>🤝 Collaboration</b> — open source & team projects
+<br/><b>🧑‍💻 Freelance</b> — small web and automation projects
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -398,7 +546,7 @@ Focus areas: Artificial Intelligence & Machine Learning · Computer Vision & Ima
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
@@ -408,8 +556,6 @@ Focus areas: Artificial Intelligence & Machine Learning · Computer Vision & Ima
 ## 💼 Let's Connect!
 
 <div align="center">
-
-### 🌟 Open to Opportunities
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Internship;AI+%26+Machine+Learning+Projects;Computer+Vision+Applications;Open+Source+Collaboration;Freelance+%26+Contract+Work" alt="Opportunities" />
 
@@ -421,8 +567,6 @@ Focus areas: Artificial Intelligence & Machine Learning · Computer Vision & Ima
 <a href="https://github.com/SurajZalke"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
-
-### ⭐ Show Some Love
 
 If you like my work, consider giving a ⭐ to my repositories!
 
