@@ -490,7 +490,7 @@ Automated messaging system for bulk operations, scheduled messages, and intellig
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajZalke&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SurajZalke&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Coding Activity" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajZalke&repo=SurajZalke&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Profile Repo Card" />
 
 <br/><br/>
 
