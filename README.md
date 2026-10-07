@@ -326,94 +326,32 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🤖 SK AI Assistant
-**Flagship Intelligent System**
 
-<img src="https://img.shields.io/badge/Status-Private-FF6B6B?style=for-the-badge&logo=lock&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/Flagship-Project-00D9FF?style=for-the-badge&logo=star&logoColor=white" alt="Flagship" />
+<img src="https://img.shields.io/badge/Status-Private-FF6B6B?style=flat-square&logo=lock&logoColor=white" /> <img src="https://img.shields.io/badge/Flagship-Project-00D9FF?style=flat-square&logo=star&logoColor=white" />
 
-</div>
+Advanced personal AI assistant with voice commands, agentic planning, and tool orchestration.
 
-An advanced personal AI assistant with **voice commands, agentic planning, and tool orchestration**.
+**Architecture:** Voice/Text → Intent → SK Brain → Agentic Planner → Tool Orchestration → Verify → Response
 
-```mermaid
-graph TD
-    A[Voice/Text Input] --> B[Processing]
-    B --> C[Intent Classification]
-    C --> D[SK Brain]
-    D --> E[Agentic Planner]
-    E --> F[Tool Orchestration]
-    F --> G[Action Execution]
-    G --> H[Verification]
-    H --> I[Response]
-    
-    style D fill:#00D9FF
-    style E fill:#FF6B6B
-    style F fill:#4CAF50
-```
+🎙️ Voice • 🧠 Agentic Planning • 🛠️ Tool Orchestration • ✅ Verification • 💾 Memory • 😊 Emotion • 👁️ Vision • 🔒 Safety
 
-**🎯 Core Features:**
-<table>
-<tr><td>🎙️</td><td><b>Voice Processing</b></td></tr>
-<tr><td>🧠</td><td><b>Agentic Planning</b></td></tr>
-<tr><td>🛠️</td><td><b>Tool Orchestration</b></td></tr>
-<tr><td>✅</td><td><b>Action Verification</b></td></tr>
-<tr><td>💾</td><td><b>Memory System</b></td></tr>
-<tr><td>😊</td><td><b>Emotion Recognition</b></td></tr>
-<tr><td>👁️</td><td><b>Computer Vision</b></td></tr>
-<tr><td>🔒</td><td><b>Safety Layers</b></td></tr>
-</table>
-
-**💻 Tech:** Python • Speech Recognition • LLM APIs • PyAutoGUI • OpenCV
+`Python` `Speech Recognition` `LLM APIs` `PyAutoGUI` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🎓 AI Educational Platform
-**Interactive Learning System**
 
-<img src="https://img.shields.io/badge/Status-Live-4CAF50?style=for-the-badge&logo=checkmark&logoColor=white" alt="Live" />
-<img src="https://img.shields.io/badge/Users-1000s-00D9FF?style=for-the-badge&logo=users&logoColor=white" alt="Users" />
+<img src="https://img.shields.io/badge/Status-Live-4CAF50?style=flat-square" /> <img src="https://img.shields.io/badge/Users-1000s-00D9FF?style=flat-square" />
 
-</div>
+Comprehensive platform with AI-generated MCQs, real-time scoring, and competitive leaderboards.
 
-Comprehensive platform with **AI-generated MCQs, real-time scoring, and competitive leaderboards**.
+**Impact:** 🎯 1000s Students • 📚 AI Quiz Generation • ⏱️ Real-time Scoring • 🏆 Leaderboards • 📊 Analytics • 📱 Responsive
 
-**📊 Impact Metrics:**
+✓ JEE/NEET/CBSE focused • ✓ Trusted by educators • ✓ High engagement rates
 
-<div align="center">
-
-```
-┌─────────────────────────────┐
-│  🎯 1000s of Students      │
-│  📚 AI-Generated Questions  │
-│  ⏱️  Real-time Scoring      │
-│  🏆 Live Leaderboards       │
-│  📊 Analytics Dashboard     │
-└─────────────────────────────┘
-```
-
-</div>
-
-**🌟 Features:**
-- 🤖 **AI Quiz Generation** - Dynamic question creation
-- ⏱️ **Real-time Scoring** - Instant feedback
-- 🏆 **Leaderboards** - Competitive rankings
-- 👥 **Concurrent Users** - Hundreds simultaneously
-- 📊 **Analytics** - Performance insights
-- 📱 **Responsive** - Works on all devices
-
-**✅ Achievements:**
-- ✓ Thousands of active students
-- ✓ Trusted by educators
-- ✓ High engagement rates
-- ✓ JEE/NEET/CBSE focused
-
-**💻 Tech:** React • Next.js • Firebase • AI APIs • Real-time DB
+`React` `Next.js` `Firebase` `AI APIs` `Real-time DB`
 
 </td>
 </tr>
@@ -421,103 +359,42 @@ Comprehensive platform with **AI-generated MCQs, real-time scoring, and competit
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 👁️ Computer Vision OMR
-**Automated Processing System**
 
-<img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Deployed" />
-<img src="https://img.shields.io/badge/Processing-1000s-00D9FF?style=for-the-badge&logo=document&logoColor=white" alt="Processing" />
+<img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=flat-square" /> <img src="https://img.shields.io/badge/Processing-1000s-00D9FF?style=flat-square" />
 
-</div>
+Intelligent optical mark recognition with high accuracy across varying scan qualities.
 
-Intelligent **optical mark recognition** system with high accuracy across varying scan qualities.
+**Pipeline:** Scan → Detect Bubbles → Extract Answers → Batch Process → Verify → Report
 
-**🔍 Processing Pipeline:**
+📄 Bubble Detection • ✅ High Accuracy • 🔍 Advanced Algorithms • 📊 Batch Processing • 🎯 Adaptive Quality
 
-```ascii
-┌──────────┐     ┌──────────┐     ┌──────────┐
-│  Scan    │ ──> │ Detect   │ ──> │ Extract  │
-│  Sheet   │     │ Bubbles  │     │ Answers  │
-└──────────┘     └──────────┘     └──────────┘
-                                       ↓
-┌──────────┐     ┌──────────┐     ┌──────────┐
-│  Report  │ <── │ Verify   │ <── │ Process  │
-│  Results │     │  Data    │     │  Batch   │
-└──────────┘     └──────────┘     └──────────┘
-```
-
-**💪 Capabilities:**
-- 📄 **Bubble Detection** - Automated recognition
-- ✅ **Answer Extraction** - High accuracy
-- 🔍 **Image Processing** - Advanced algorithms
-- 📊 **Batch Processing** - Thousands at once
-- 🎯 **Accuracy** - Handles poor quality
-- 🖼️ **Adaptive** - Quality-aware processing
-
-**💻 Tech:** Python • OpenCV • RapidOCR • Image Processing
+`Python` `OpenCV` `RapidOCR` `Image Processing`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🎓 MSP College Advance
-**Progressive Web Application**
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurajZalke/mspcollage-manora)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SurajZalke/mspcollage-manora)
 
-</div>
+Progressive Web App for students with academic resources and offline-first architecture.
 
-Comprehensive **PWA for students** with academic resources and offline-first architecture.
+📚 Academic Resources • 📢 College Updates • 🎯 Admission Portal • 📴 Offline-First • 🔔 Push Notifications • 📱 Mobile-First
 
-**📱 PWA Features:**
-
-<div align="center">
-
-| Feature | Description |
-|:-------:|:-----------:|
-| 📚 | **Academic Resources** |
-| 📢 | **College Updates** |
-| 🎯 | **Admission Portal** |
-| 📴 | **Offline-First** |
-| 🔔 | **Push Notifications** |
-| 📱 | **Mobile Optimized** |
-
-</div>
-
-**🌟 Highlights:**
-- Service Workers for offline capability
-- Real-time college announcements
-- Comprehensive admission information
-- Mobile-first responsive design
-- Push notifications for updates
-- Fast and lightweight
-
-**💻 Tech:** HTML5 • CSS3 • JavaScript • Firebase • Service Workers
+`HTML5` `CSS3` `JavaScript` `Firebase` `Service Workers`
 
 ---
 
-<div align="center">
-
 ### 🌐 Interactive Portfolio
-**3D Animated Showcase**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-zalke-protfolio.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://suraj-zalke-protfolio.netlify.app/)
 
-</div>
+Modern portfolio with 3D animations, interactive diagrams, and smooth transitions.
 
-**Modern portfolio** with 3D animations, interactive diagrams, and smooth transitions.
+🎨 Three.js 3D • 🔄 Interactive Diagrams • ✨ Smooth Animations • 📱 Responsive • ♿ WCAG • ⚡ Optimized
 
-**✨ Features:**
-- 🎨 3D Hero (Three.js)
-- 🔄 Interactive Diagrams
-- ✨ Smooth Animations
-- 📱 Responsive Design
-- ♿ WCAG Compliant
-- ⚡ Optimized Performance
-
-**💻 Tech:** React • Three.js • CSS Animations
+`React` `Three.js` `CSS Animations`
 
 </td>
 </tr>
@@ -525,34 +402,24 @@ Comprehensive **PWA for students** with academic resources and offline-first arc
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🏫 PCCOER Portal
-**AI-Focused Management**
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurajZalke/pccoer-portal)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SurajZalke/pccoer-portal)
 
-</div>
+Educational portal with AI integration for student information and course management.
 
-Educational portal with **AI integration** for student information and course management.
-
-**💻 Tech:** TypeScript • React • REST APIs
+`TypeScript` `React` `REST APIs`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 💬 WhatsApp Automation
-**Smart Messaging System**
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurajZalke/whatapp-automation)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SurajZalke/whatapp-automation)
 
-</div>
+Automated messaging with bulk operations, scheduling, and intelligent contact management.
 
-Automated messaging with **bulk operations, scheduling, and intelligent contact management**.
-
-**💻 Tech:** JavaScript • Node.js • Automation
+`JavaScript` `Node.js` `Automation`
 
 </td>
 </tr>
@@ -560,11 +427,7 @@ Automated messaging with **bulk operations, scheduling, and intelligent contact 
 
 <br/>
 
-**<a href="https://github.com/SurajZalke?tab=repositories">🔗 Explore More Projects on GitHub →</a>**
-
-</div>
-<b>Explore more on <a href="https://github.com/SurajZalke?tab=repositories">GitHub Repositories →</a></b>
-</p>
+**<a href="https://github.com/SurajZalke?tab=repositories">🔗 Explore All Projects on GitHub →</a>**
 
 </div>
 
