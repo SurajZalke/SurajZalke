@@ -457,7 +457,9 @@ Automated messaging with bulk operations, scheduling, and intelligent contact ma
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SurajZalke&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajZalke&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -593,16 +595,6 @@ Automated messaging with bulk operations, scheduling, and intelligent contact ma
 <br/><b>3+</b>
 <br/>Years Experience</td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/000000/diploma.png" alt="Certified" />
-<br/><b>Certified</b>
-<br/>Professional
-</td>
-</tr>
-</table>
-<br/><b>3+ Years</b>
-<br/>Experience
-</td>
-<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/48/000000/diploma.png" alt="Certified" />
 <br/><b>Certified</b>
 <br/>Professional
