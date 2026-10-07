@@ -322,152 +322,247 @@ mindmap
 
 <div align="center">
 
-### 🤖 SK AI Assistant - Flagship Project
-**Intelligent Voice & Command System**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Status-Private_/_Experimental-FF6B6B?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Type-Flagship_Project-00D9FF?style=for-the-badge" alt="Type" />
+<div align="center">
 
-An advanced personal AI assistant that understands commands, context, emotions, and user intent to coordinate tools and actions through intelligent software architecture.
+### 🤖 SK AI Assistant
+**Flagship Intelligent System**
 
-**System Architecture:**
-```
-Voice/Text Input → Speech/Input Processing → Intent Classification
-          ↓
-      SK Brain → Agentic Planner → API/Tool Orchestration
-          ↓
-  Action Execution → Verification → Response Validation
-          ↓
-    Voice/Text Response
+<img src="https://img.shields.io/badge/Status-Private-FF6B6B?style=for-the-badge&logo=lock&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Flagship-Project-00D9FF?style=for-the-badge&logo=star&logoColor=white" alt="Flagship" />
+
+</div>
+
+An advanced personal AI assistant with **voice commands, agentic planning, and tool orchestration**.
+
+```mermaid
+graph TD
+    A[Voice/Text Input] --> B[Processing]
+    B --> C[Intent Classification]
+    C --> D[SK Brain]
+    D --> E[Agentic Planner]
+    E --> F[Tool Orchestration]
+    F --> G[Action Execution]
+    G --> H[Verification]
+    H --> I[Response]
     
-[Memory | Emotion | Vision | Safety | Session State]
+    style D fill:#00D9FF
+    style E fill:#FF6B6B
+    style F fill:#4CAF50
 ```
 
-**Core Capabilities:**
-- 🎙️ Voice & Text Command Processing
-- 🧠 Agentic Planning & Reasoning  
-- 🛠️ API & Tool Orchestration
-- ✅ Action Execution & Verification
-- 💾 Memory & Session Management
-- 😊 Emotion Recognition
-- 👁️ Computer Vision Integration
-- 🔒 Safety & Validation Layers
+**🎯 Core Features:**
+<table>
+<tr><td>🎙️</td><td><b>Voice Processing</b></td></tr>
+<tr><td>🧠</td><td><b>Agentic Planning</b></td></tr>
+<tr><td>🛠️</td><td><b>Tool Orchestration</b></td></tr>
+<tr><td>✅</td><td><b>Action Verification</b></td></tr>
+<tr><td>💾</td><td><b>Memory System</b></td></tr>
+<tr><td>😊</td><td><b>Emotion Recognition</b></td></tr>
+<tr><td>👁️</td><td><b>Computer Vision</b></td></tr>
+<tr><td>🔒</td><td><b>Safety Layers</b></td></tr>
+</table>
 
-**Tech Stack:** Python, Speech Recognition, LLM APIs, Agentic Systems, PyAutoGUI, Computer Vision, Pydantic
+**💻 Tech:** Python • Speech Recognition • LLM APIs • PyAutoGUI • OpenCV
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎓 AI-Powered Educational Platform
-**Interactive Quiz & Learning System**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Status-Live_&_Active-4CAF50?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Users-Thousands-00D9FF?style=for-the-badge" alt="Users" />
+### 🎓 AI Educational Platform
+**Interactive Learning System**
 
-A comprehensive educational platform with AI-generated MCQs, real-time scoring, and competitive leaderboards for JEE/NEET/CBSE preparation.
+<img src="https://img.shields.io/badge/Status-Live-4CAF50?style=for-the-badge&logo=checkmark&logoColor=white" alt="Live" />
+<img src="https://img.shields.io/badge/Users-1000s-00D9FF?style=for-the-badge&logo=users&logoColor=white" alt="Users" />
 
-**Features:**
-- 🤖 AI-Generated Questions
-- ⏱️ Real-time Scoring System
-- 🏆 Live Leaderboards
-- 👥 Handles Hundreds of Concurrent Users
-- 📊 Performance Analytics & Insights
-- 📱 Fully Responsive Design
+</div>
 
-**Impact:**  
-✓ Used by thousands of students  
-✓ Trusted by educators  
-✓ High engagement & retention
+Comprehensive platform with **AI-generated MCQs, real-time scoring, and competitive leaderboards**.
 
-**Tech Stack:** React, Next.js, Firebase, AI Quiz Generation, Real-time Database
+**📊 Impact Metrics:**
 
----
+<div align="center">
 
-### 👁️ Computer Vision OMR System
-**Automated Answer Sheet Processing**
+```
+┌─────────────────────────────┐
+│  🎯 1000s of Students      │
+│  📚 AI-Generated Questions  │
+│  ⏱️  Real-time Scoring      │
+│  🏆 Live Leaderboards       │
+│  📊 Analytics Dashboard     │
+└─────────────────────────────┘
+```
 
-<img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Processing-Thousands_of_Documents-00D9FF?style=for-the-badge" alt="Processing" />
+</div>
 
-Intelligent optical mark recognition system that detects bubbles and extracts answers from scanned sheets with high accuracy across varying scan qualities.
+**🌟 Features:**
+- 🤖 **AI Quiz Generation** - Dynamic question creation
+- ⏱️ **Real-time Scoring** - Instant feedback
+- 🏆 **Leaderboards** - Competitive rankings
+- 👥 **Concurrent Users** - Hundreds simultaneously
+- 📊 **Analytics** - Performance insights
+- 📱 **Responsive** - Works on all devices
 
-**Capabilities:**
-- 📄 Automated Bubble Detection & Recognition
-- ✅ Answer Extraction & Validation
-- 🔍 Advanced Image Processing Algorithms
-- 📊 Batch Processing Support
-- 🎯 High Accuracy Recognition
-- 🖼️ Adaptive Quality Handling
+**✅ Achievements:**
+- ✓ Thousands of active students
+- ✓ Trusted by educators
+- ✓ High engagement rates
+- ✓ JEE/NEET/CBSE focused
 
-**Performance:**  
-✓ Processes thousands of documents  
-✓ Handles poor scan quality  
-✓ Automated verification system
+**💻 Tech:** React • Next.js • Firebase • AI APIs • Real-time DB
 
-**Tech Stack:** Python, OpenCV, RapidOCR, Image Processing
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 👁️ Computer Vision OMR
+**Automated Processing System**
+
+<img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Deployed" />
+<img src="https://img.shields.io/badge/Processing-1000s-00D9FF?style=for-the-badge&logo=document&logoColor=white" alt="Processing" />
+
+</div>
+
+Intelligent **optical mark recognition** system with high accuracy across varying scan qualities.
+
+**🔍 Processing Pipeline:**
+
+```ascii
+┌──────────┐     ┌──────────┐     ┌──────────┐
+│  Scan    │ ──> │ Detect   │ ──> │ Extract  │
+│  Sheet   │     │ Bubbles  │     │ Answers  │
+└──────────┘     └──────────┘     └──────────┘
+                                       ↓
+┌──────────┐     ┌──────────┐     ┌──────────┐
+│  Report  │ <── │ Verify   │ <── │ Process  │
+│  Results │     │  Data    │     │  Batch   │
+└──────────┘     └──────────┘     └──────────┘
+```
+
+**💪 Capabilities:**
+- 📄 **Bubble Detection** - Automated recognition
+- ✅ **Answer Extraction** - High accuracy
+- 🔍 **Image Processing** - Advanced algorithms
+- 📊 **Batch Processing** - Thousands at once
+- 🎯 **Accuracy** - Handles poor quality
+- 🖼️ **Adaptive** - Quality-aware processing
+
+**💻 Tech:** Python • OpenCV • RapidOCR • Image Processing
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🎓 MSP College Advance
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/SurajZalke/mspcollage-manora)
+**Progressive Web Application**
 
-**Student-Focused Progressive Web App**
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurajZalke/mspcollage-manora)
 
-A comprehensive PWA featuring academic resources, college updates, admission information, and offline-first architecture.
+</div>
 
-**Features:**
-- 📚 Academic Notes & Resources
-- 📢 College Updates & Announcements
-- 🎯 Admission Information Portal
-- 📴 Offline-First Architecture
-- 🔔 Push Notifications
-- 📱 Mobile Optimized Interface
+Comprehensive **PWA for students** with academic resources and offline-first architecture.
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Firebase, Service Workers
+**📱 PWA Features:**
 
----
+<div align="center">
 
-### 🌐 Interactive Portfolio Website
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://suraj-zalke-protfolio.netlify.app/)
+| Feature | Description |
+|:-------:|:-----------:|
+| 📚 | **Academic Resources** |
+| 📢 | **College Updates** |
+| 🎯 | **Admission Portal** |
+| 📴 | **Offline-First** |
+| 🔔 | **Push Notifications** |
+| 📱 | **Mobile Optimized** |
 
-**Modern Showcase with 3D Animations**
+</div>
 
-Professional portfolio featuring animated 3D hero section, interactive system diagrams, smooth transitions, and accessibility compliance.
+**🌟 Highlights:**
+- Service Workers for offline capability
+- Real-time college announcements
+- Comprehensive admission information
+- Mobile-first responsive design
+- Push notifications for updates
+- Fast and lightweight
 
-**Highlights:**
-- 🎨 3D Animated Hero Section (Three.js)
-- 🔄 Interactive System Architecture Diagrams
-- ✨ Smooth Scroll Transitions & Animations
-- 📱 Fully Responsive Design
-- ♿ WCAG Accessibility Compliant
-- ⚡ Performance Optimized
-
-**Tech Stack:** React, Three.js, CSS Animations, Responsive Design
+**💻 Tech:** HTML5 • CSS3 • JavaScript • Firebase • Service Workers
 
 ---
+
+<div align="center">
+
+### 🌐 Interactive Portfolio
+**3D Animated Showcase**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-zalke-protfolio.netlify.app/)
+
+</div>
+
+**Modern portfolio** with 3D animations, interactive diagrams, and smooth transitions.
+
+**✨ Features:**
+- 🎨 3D Hero (Three.js)
+- 🔄 Interactive Diagrams
+- ✨ Smooth Animations
+- 📱 Responsive Design
+- ♿ WCAG Compliant
+- ⚡ Optimized Performance
+
+**💻 Tech:** React • Three.js • CSS Animations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🏫 PCCOER Portal
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/SurajZalke/pccoer-portal)
+**AI-Focused Management**
 
-**AI-Focused Educational Management**
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurajZalke/pccoer-portal)
 
-Educational portal with AI integration for student information management and course administration.
+</div>
 
-**Tech Stack:** TypeScript, React, REST APIs
+Educational portal with **AI integration** for student information and course management.
 
----
+**💻 Tech:** TypeScript • React • REST APIs
 
-### 💬 WhatsApp Automation Tool
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/SurajZalke/whatapp-automation)
+</td>
+<td width="50%" valign="top">
 
-**Smart Messaging & Workflow Automation**
+<div align="center">
 
-Automated messaging system for bulk operations, scheduled messages, and intelligent contact management.
+### 💬 WhatsApp Automation
+**Smart Messaging System**
 
-**Tech Stack:** JavaScript, Node.js, Workflow Automation
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurajZalke/whatapp-automation)
 
----
+</div>
 
-<p align="center">
+Automated messaging with **bulk operations, scheduling, and intelligent contact management**.
+
+**💻 Tech:** JavaScript • Node.js • Automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**<a href="https://github.com/SurajZalke?tab=repositories">🔗 Explore More Projects on GitHub →</a>**
+
+</div>
 <b>Explore more on <a href="https://github.com/SurajZalke?tab=repositories">GitHub Repositories →</a></b>
 </p>
 
@@ -512,100 +607,131 @@ Automated messaging system for bulk operations, scheduled messages, and intellig
 
 <div align="center">
 
-### 📜 Professional Certifications
-
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/CCDE-Cyber_Defense_Expert-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="CCDE" />
-<br/><b>🔐 CCDE Institute</b>
-<br/>📅 April 24, 2025
-<br/>🆔 PREVIEW-6S-1725924024-Q0
-<br/><br/>
-<details>
-<summary><b>View Details</b></summary>
-<br/>
-Certified Cyber Defense Professional Expert certification demonstrating advanced cybersecurity knowledge, defensive protocols, and security implementation expertise.
-</details>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Cybersecurity-Assessment_Certificate-4CAF50?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
-<br/><b>🛡️ LearnTube</b>
-<br/>📅 April 27, 2026
-<br/>🆔 DJA-B-1-2432099-0
-<br/><br/>
-<details>
-<summary><b>View Details</b></summary>
-<br/>
-Comprehensive security evaluation and professional verification presented by Shronit Ladhani & Gargi Ruparelia, co-founders of LearnTube.
-</details>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AI-Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Fundamentals" />
-<br/><b>🤖 Coursera (Google)</b>
-<br/>📅 Issued 2025
-<br/>🔗 coursera.org/verify
-<br/><br/>
-<details>
-<summary><b>View Details</b></summary>
-<br/>
-Comprehensive AI fundamentals course covering machine learning principles, AI applications, neural networks, and real-world implementation techniques.
-</details>
-</td>
-</tr>
-</table>
+<td align="center" width="30%">
 
-### 🎓 Event Participation
+<img src="assets/certificates/PHOTO.png" width="200" style="border-radius: 50%; border: 4px solid #00D9FF;" alt="Suraj Zalke" />
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/GDGoC-The_Agentic_Shift-00D9FF?style=for-the-badge&logo=google&logoColor=white" alt="The Agentic Shift" />
-<br/><b>Google Developer Groups on Campus</b>
-<br/>PCCOE&R | 1 Oct 2026
+### Suraj Zalke
+**AI Developer & Software Engineer**
+
+<img src="https://img.shields.io/badge/Experience-3%2B_Years-00D9FF?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Projects-5%2B-4CAF50?style=flat-square" alt="Projects" />
+<img src="https://img.shields.io/badge/Users-1000s-FF6B6B?style=flat-square" alt="Users" />
+
 </td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/GDGoC-Let's_Git_it-00D9FF?style=for-the-badge&logo=git&logoColor=white" alt="Let's Git it" />
-<br/><b>Google Developer Groups on Campus</b>
-<br/>PCCOE&R | 30 Sep 2026
+<td align="left" width="70%">
+
+### 🎓 Professional Certifications
+
+📜 **CCDE - Certified Cyber Defense Expert**  
+🏢 CCDE Institute | 📅 April 24, 2025  
+🆔 Credential: `PREVIEW-6S-1725924024-Q0`  
+🔐 Advanced cybersecurity, defensive protocols, security implementation
+
+📜 **Cybersecurity Assessment Certificate**  
+🏢 LearnTube | 📅 April 27, 2026  
+🆔 Credential: `DJA-B-1-2432099-0`  
+🛡️ Security evaluation & professional verification
+
+📜 **AI Fundamentals**  
+🏢 Coursera (Google) | 📅 2025  
+🔗 Verify: coursera.org/verify  
+🤖 Machine learning, AI applications, neural networks
+
+### 🎯 Event Participation
+
+🎪 **The Agentic Shift** - GDGoC PCCOE&R | 📅 1 Oct 2026  
+🎪 **Let's Git it** - GDGoC PCCOE&R | 📅 30 Sep 2026
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 📸 Certificate Gallery
+### 📸 Certificate Showcase
 
-<details>
-<summary><b>Click to view certificates</b></summary>
+<details open>
+<summary><b>🔽 View All Certificates (Click to expand/collapse)</b></summary>
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="assets/certificates/gdgoc-the-agentic-shift.jpg" width="45%" alt="Certificate - The Agentic Shift, GDGoC PCCOE&R" />
-<img src="assets/certificates/gdgoc-lets-git-it.jpg" width="45%" alt="Certificate - Let's Git it, GDGoC PCCOE&R" />
+**🔐 CCDE Cybersecurity Expert**  
+*CCDE Institute - April 2025*
 
-</div>
+<img src="assets/certificates/CYBER.jpeg" width="100%" alt="CCDE Cybersecurity Certificate" style="border: 2px solid #00D9FF; border-radius: 8px;" />
+
+</td>
+<td align="center" width="50%">
+
+**🤖 Google AI Fundamentals**  
+*Coursera (Google) - 2025*
+
+<img src="assets/certificates/GOOGLE.jpeg" width="100%" alt="Google AI Fundamentals Certificate" style="border: 2px solid #4CAF50; border-radius: 8px;" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+**⚡ The Agentic Shift**  
+*GDGoC PCCOE&R - Oct 1, 2026*
+
+<img src="assets/certificates/gdgoc-the-agentic-shift.jpg" width="100%" alt="The Agentic Shift Certificate" style="border: 2px solid #00D9FF; border-radius: 8px;" />
+
+</td>
+<td align="center" width="50%">
+
+**🔧 Let's Git it**  
+*GDGoC PCCOE&R - Sep 30, 2026*
+
+<img src="assets/certificates/gdgoc-lets-git-it.jpg" width="100%" alt="Let's Git it Certificate" style="border: 2px solid #FF6B6B; border-radius: 8px;" />
+
+</td>
+</tr>
+</table>
 
 </details>
+
+<br/>
 
 ### 🌟 Key Achievements
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Development" />
-<br/><b>5+ Projects</b>
-<br/>Major Applications Built
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/trophy.png" alt="Projects" />
+<br/><b>5+</b>
+<br/>Major Projects
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/group.png" alt="Users" />
-<br/><b>Thousands</b>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/crowd.png" alt="Users" />
+<br/><b>1000s</b>
 <br/>Users Served
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/document.png" alt="Documents" />
+<br/><b>1000s</b>
+<br/>Documents Processed
+</td>
+<td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/48/000000/development-skill.png" alt="Experience" />
+<br/><b>3+</b>
+<br/>Years Experience</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/diploma.png" alt="Certified" />
+<br/><b>Certified</b>
+<br/>Professional
+</td>
+</tr>
+</table>
 <br/><b>3+ Years</b>
 <br/>Experience
 </td>
