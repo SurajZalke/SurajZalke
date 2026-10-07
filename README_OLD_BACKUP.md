@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG with Multiple Lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=AI+Developer+%26+Software+Engineer+%F0%9F%9A%80;I+BUILD+INTELLIGENT+SYSTEMS+%F0%9F%A4%96;Open+to+Internship+%26+Collaboration+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+Intelligent+Web+Solutions+%F0%9F%A4%96;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,8 +30,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SurajZalke&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SurajZalke?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-00D9FF?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Projects-5%2B_Major-00D9FF?style=for-the-badge" alt="Projects" />
 </p>
 
 </div>
@@ -54,25 +52,36 @@ const surajZalke = {
     projects: "5+ Major Projects",
     
     mission: "I BUILD INTELLIGENT SYSTEMS.",
-    focus: "Building software that understands context, makes decisions, and verifies outcomes",
+    focus: "Building intelligent software that understands context, makes decisions, and verifies outcomes",
     
     specialization: [
         "🤖 Artificial Intelligence & Agentic Systems",
         "👁️ Computer Vision & Image Processing",
         "🎙️ Voice Interfaces & Speech Recognition",
         "⚙️ Automation & Workflow Systems",
-        "🌐 Full-Stack Web Development"
+        "🌐 Full-Stack Web Development",
+        "📱 Mobile Application Development"
     ],
     
+    techStack: {
+        ai_ml: ["Python", "Transformers", "Hugging Face", "Agentic Systems", 
+                "Pydantic", "LLM APIs", "Prompt Engineering"],
+        computerVision: ["OpenCV", "RapidOCR", "Image Processing", "Object Detection"],
+        frontend: ["React.js", "Next.js", "TypeScript", "Three.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Flask", "Firebase", "REST APIs"],
+        automation: ["PyAutoGUI", "Workflow Automation", "Shell Scripts"],
+        tools: ["Git & GitHub", "VS Code", "Linux", "Docker", "PyQt", "Pygame"]
+    },
+    
     achievements: [
-        "Built 4+ major AI applications used by thousands of students",
-        "Developed computer vision systems processing thousands of documents",
-        "Created responsive web apps serving hundreds of concurrent users",
-        "Designed end-to-end intelligent systems with verification layers"
+        "✓ Built 4+ major AI applications used by thousands of students",
+        "✓ Developed computer vision systems processing thousands of documents",
+        "✓ Created responsive web apps serving hundreds of concurrent users",
+        "✓ Designed end-to-end intelligent systems with verification layers"
     ],
     
     philosophy: "Input → Understanding → Reasoning → Planning → Action → Verification",
-    motto: "A system should understand what it's doing and verify it actually succeeded 💫"
+    motto: "A system should not simply perform an action. It should understand what it's doing and verify whether it actually succeeded. 💫"
 };
 ```
 
@@ -200,6 +209,67 @@ It should understand what it's doing and verify whether it actually succeeded."*
 
 <br/>
 
+<details>
+<summary><b>📚 Complete Skill List</b></summary>
+
+<br/>
+
+**Programming Languages**
+- Python (Advanced)
+- JavaScript (ES6+)
+- Java
+- C/C++
+- SQL
+- HTML5/CSS3
+
+**Frontend Development**
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Material-UI
+- Responsive Design
+- Progressive Web Apps (PWA)
+
+**Backend Development**
+- Node.js
+- Express.js
+- Flask
+- FastAPI
+- REST API Design
+- JWT Authentication
+
+**Database Technologies**
+- MongoDB
+- Firebase (Firestore, Realtime DB, Authentication)
+- SQLite
+- MySQL
+
+**AI/ML Technologies**
+- TensorFlow
+- scikit-learn
+- PyTorch (Basic)
+- Pandas & NumPy
+- Natural Language Processing (NLP)
+- Transformers
+
+**Development Tools**
+- Git & GitHub
+- VS Code
+- Postman
+- Docker (Basic)
+- Android Studio
+- Figma
+
+**Deployment & Cloud**
+- Vercel
+- Netlify
+- Heroku
+- Firebase Hosting
+
+</details>
+
+<br/>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -209,154 +279,119 @@ It should understand what it's doing and verify whether it actually succeeded."*
 
 <div align="center">
 
-### 🤖 SK AI Assistant - Flagship Project
-**Intelligent Voice & Command System**
-
-<img src="https://img.shields.io/badge/Status-Private_/_Experimental-FF6B6B?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Type-Flagship_Project-00D9FF?style=for-the-badge" alt="Type" />
-
-An advanced personal AI assistant that understands commands, context, emotions, and user intent to coordinate tools and actions through intelligent software architecture.
-
-**System Architecture:**
-```
-Voice/Text Input → Speech/Input Processing → Intent Classification
-          ↓
-      SK Brain → Agentic Planner → API/Tool Orchestration
-          ↓
-  Action Execution → Verification → Response Validation
-          ↓
-    Voice/Text Response
-    
-[Memory | Emotion | Vision | Safety | Session State]
-```
-
-**Core Capabilities:**
-- 🎙️ Voice & Text Command Processing
-- 🧠 Agentic Planning & Reasoning  
-- 🛠️ API & Tool Orchestration
-- ✅ Action Execution & Verification
-- 💾 Memory & Session Management
-- 😊 Emotion Recognition
-- 👁️ Computer Vision Integration
-- 🔒 Safety & Validation Layers
-
-**Tech Stack:** Python, Speech Recognition, LLM APIs, Agentic Systems, PyAutoGUI, Computer Vision, Pydantic
-
----
-
-### 🎓 AI-Powered Educational Platform
-**Interactive Quiz & Learning System**
-
-<img src="https://img.shields.io/badge/Status-Live_&_Active-4CAF50?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Users-Thousands-00D9FF?style=for-the-badge" alt="Users" />
-
-A comprehensive educational platform with AI-generated MCQs, real-time scoring, and competitive leaderboards for JEE/NEET/CBSE preparation.
-
-**Features:**
-- 🤖 AI-Generated Questions
-- ⏱️ Real-time Scoring System
-- 🏆 Live Leaderboards
-- 👥 Handles Hundreds of Concurrent Users
-- 📊 Performance Analytics & Insights
-- 📱 Fully Responsive Design
-
-**Impact:**  
-✓ Used by thousands of students  
-✓ Trusted by educators  
-✓ High engagement & retention
-
-**Tech Stack:** React, Next.js, Firebase, AI Quiz Generation, Real-time Database
-
----
-
-### 👁️ Computer Vision OMR System
-**Automated Answer Sheet Processing**
-
-<img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Processing-Thousands_of_Documents-00D9FF?style=for-the-badge" alt="Processing" />
-
-Intelligent optical mark recognition system that detects bubbles and extracts answers from scanned sheets with high accuracy across varying scan qualities.
-
-**Capabilities:**
-- 📄 Automated Bubble Detection & Recognition
-- ✅ Answer Extraction & Validation
-- 🔍 Advanced Image Processing Algorithms
-- 📊 Batch Processing Support
-- 🎯 High Accuracy Recognition
-- 🖼️ Adaptive Quality Handling
-
-**Performance:**  
-✓ Processes thousands of documents  
-✓ Handles poor scan quality  
-✓ Automated verification system
-
-**Tech Stack:** Python, OpenCV, RapidOCR, Image Processing
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 MSP College Advance
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/SurajZalke/mspcollage-manora)
 
-**Student-Focused Progressive Web App**
+**Student-focused PWA for education management**
 
-A comprehensive PWA featuring academic resources, college updates, admission information, and offline-first architecture.
+🔹 Academic notes & resources  
+🔹 College updates & admissions  
+🔹 Offline-first architecture  
+🔹 Real-time notifications  
 
-**Features:**
-- 📚 Academic Notes & Resources
-- 📢 College Updates & Announcements
-- 🎯 Admission Information Portal
-- 📴 Offline-First Architecture
-- 🔔 Push Notifications
-- 📱 Mobile Optimized Interface
+**Tech:** HTML, CSS, JavaScript, Firebase
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Firebase, Service Workers
+</td>
+<td width="50%" valign="top">
 
----
+### 🤖 Vivek Dhole Sir Web AI
+**AI-enabled educational platform**
 
-### 🌐 Interactive Portfolio Website
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://suraj-zalke-protfolio.netlify.app/)
+🔹 Student management system  
+🔹 Performance analytics  
+🔹 Smart insights & tracking  
+🔹 JWT authentication  
 
-**Modern Showcase with 3D Animations**
+**Tech:** React, Node.js, Express, MongoDB
 
-Professional portfolio featuring animated 3D hero section, interactive system diagrams, smooth transitions, and accessibility compliance.
+</td>
+</tr>
 
-**Highlights:**
-- 🎨 3D Animated Hero Section (Three.js)
-- 🔄 Interactive System Architecture Diagrams
-- ✨ Smooth Scroll Transitions & Animations
-- 📱 Fully Responsive Design
-- ♿ WCAG Accessibility Compliant
-- ⚡ Performance Optimized
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** React, Three.js, CSS Animations, Responsive Design
+### 💬 SK AI Assistant
+**Multi-functional AI assistant**
 
----
+🔹 Conversational AI with memory  
+🔹 PDF document analysis  
+🔹 Voice interaction  
+🔹 Image generation  
+🔹 Multi-model workflows  
+
+**Tech:** Python, Flask, SQLite
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 SK AI Assistant (Android)
+**Mobile AI companion**
+
+🔹 Chat with memory  
+🔹 Voice commands  
+🔹 File processing  
+🔹 Image generation  
+🔹 Offline capabilities  
+
+**Tech:** Java, Android Studio, SQLite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🏫 PCCOER Portal
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/SurajZalke/pccoer-portal)
 
-**AI-Focused Educational Management**
+**AI-focused educational portal**
 
-Educational portal with AI integration for student information management and course administration.
+🔹 Student information system  
+🔹 Course management  
+🔹 AI integration  
 
-**Tech Stack:** TypeScript, React, REST APIs
+**Tech:** TypeScript, React
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💬 WhatsApp Automation Tool
+### 💬 WhatsApp Automation
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/SurajZalke/whatapp-automation)
 
-**Smart Messaging & Workflow Automation**
+**Smart messaging automation tool**
 
-Automated messaging system for bulk operations, scheduled messages, and intelligent contact management.
+🔹 Bulk messaging  
+🔹 Scheduled messages  
+🔹 Contact management  
 
-**Tech Stack:** JavaScript, Node.js, Workflow Automation
+**Tech:** JavaScript, Node.js
 
----
+</td>
+</tr>
 
-<p align="center">
-<b>Explore more on <a href="https://github.com/SurajZalke?tab=repositories">GitHub Repositories →</a></b>
-</p>
+<tr>
+<td colspan="2" align="center">
+
+### 🌐 Developer Portfolio
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://suraj-zalke-protfolio.netlify.app/)
+
+**Professional portfolio showcasing projects and achievements**
+
+🔹 Responsive design  
+🔹 Project showcase  
+🔹 Certificate gallery  
+🔹 Contact integration  
+
+**Tech:** HTML, CSS, JavaScript
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -398,40 +433,19 @@ Automated messaging system for bulk operations, scheduled messages, and intellig
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/CCDE-Cyber_Defense_Expert-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="CCDE" />
-<br/><b>🔐 CCDE Institute</b>
-<br/>📅 April 24, 2025
-<br/>🆔 PREVIEW-6S-1725924024-Q0
-<br/><br/>
-<details>
-<summary><b>View Details</b></summary>
-<br/>
-Certified Cyber Defense Professional Expert certification demonstrating advanced cybersecurity knowledge, defensive protocols, and security implementation expertise.
-</details>
+<img src="https://img.shields.io/badge/CCDE-Certified_Cyber_Defense_Expert-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="CCDE" />
+<br/><b>CCDE Institute</b>
+<br/>Apr 2026
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Cybersecurity-Assessment_Certificate-4CAF50?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
-<br/><b>🛡️ LearnTube</b>
-<br/>📅 April 27, 2026
-<br/>🆔 DJA-B-1-2432099-0
-<br/><br/>
-<details>
-<summary><b>View Details</b></summary>
-<br/>
-Comprehensive security evaluation and professional verification presented by Shronit Ladhani & Gargi Ruparelia, co-founders of LearnTube.
-</details>
+<br/><b>CCDE Institute</b>
+<br/>Apr 2026
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/AI-Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Fundamentals" />
-<br/><b>🤖 Coursera (Google)</b>
-<br/>📅 Issued 2025
-<br/>🔗 coursera.org/verify
-<br/><br/>
-<details>
-<summary><b>View Details</b></summary>
-<br/>
-Comprehensive AI fundamentals course covering machine learning principles, AI applications, neural networks, and real-world implementation techniques.
-</details>
+<br/><b>Coursera (Google)</b>
+<br/>Mar 2026
 </td>
 </tr>
 </table>
@@ -471,33 +485,6 @@ Comprehensive AI fundamentals course covering machine learning principles, AI ap
 
 </details>
 
-### 🌟 Key Achievements
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Development" />
-<br/><b>5+ Projects</b>
-<br/>Major Applications Built
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/group.png" alt="Users" />
-<br/><b>Thousands</b>
-<br/>Users Served
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/development-skill.png" alt="Experience" />
-<br/><b>3+ Years</b>
-<br/>Experience
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/diploma.png" alt="Certified" />
-<br/><b>Certified</b>
-<br/>Professional
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
@@ -513,19 +500,21 @@ Comprehensive AI fundamentals course covering machine learning principles, AI ap
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-### 🎓 Computer Science Engineering
-**Specialized coursework in embedded systems, signal processing, and software development**
+### 🎓 Bachelor of Technology
+**Engineering**  
+📅 2026 - Present  
+🏫 Currently Pursuing
 
-Building practical expertise in:
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Image Processing
-- Distributed Automation Systems
-- System Design & Architecture
-- Software Verification
+</td>
+<td align="center" width="50%">
 
-📅 Currently Pursuing | 🏫 Focus on Practical Implementation
+### 📚 Higher Secondary Certificate
+**Science Stream**  
+📅 2026  
+📊 69.83%  
+🏛️ Maharashtra State Board
 
 </td>
 </tr>
@@ -546,7 +535,7 @@ Building practical expertise in:
 
 ### 🌟 Open to Opportunities
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Internship;AI+%26+Machine+Learning+Projects;Computer+Vision+Applications;Open+Source+Collaboration;Freelance+%26+Contract+Work" alt="Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Internship;AI+%26+Machine+Learning+Projects;Open+Source+Collaboration;Freelance+Projects" alt="Opportunities" />
 
 <br/><br/>
 
@@ -590,17 +579,17 @@ Building practical expertise in:
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Development" />
 <br/><b>Full Stack Development</b>
-<br/>Internship & Contract Roles
+<br/>Frontend & Backend internships
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="AI" />
 <br/><b>AI/ML Projects</b>
-<br/>Intelligent System Development
+<br/>Innovative AI solutions
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/48/000000/collaboration.png" alt="Collaboration" />
 <br/><b>Collaborations</b>
-<br/>Open Source & Team Projects
+<br/>Open source & team projects
 </td>
 </tr>
 </table>
@@ -614,8 +603,8 @@ Building practical expertise in:
 ### ⭐ Show Some Love!
 
 <p align="center">
-If you find my work interesting, consider giving a ⭐ to my repositories!
-<br/><br/>
+If you like my work, consider giving a ⭐ to my repositories!
+<br/>
 <img src="https://img.shields.io/github/stars/SurajZalke?style=social" alt="GitHub Stars" />
 </p>
 
@@ -641,7 +630,7 @@ If you find my work interesting, consider giving a ⭐ to my repositories!
 ---
 
 <p align="center">
-<b>💫 "I build systems that understand, decide, and verify — transforming ideas into intelligent solutions" 💫</b>
+<b>💫 "Transforming ideas into intelligent solutions, one line of code at a time!" 💫</b>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=SurajZalke&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 </p>
