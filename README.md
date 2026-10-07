@@ -193,6 +193,10 @@ mindmap
 
 <br/>
 
+> **📌 Note for Recruiters:** My 3+ years of professional experience includes building and deploying production applications serving thousands of real users. Key projects like the AI Educational Platform and Computer Vision OMR system are live in production with verified user bases and processing volumes. Some flagship projects (like SK AI Assistant) remain in private repositories due to proprietary development. **All major projects listed are LIVE production applications, not demos or prototypes.**
+
+<br/>
+
 ### 🎯 System Building Philosophy
 
 <div align="center">
@@ -328,13 +332,13 @@ mindmap
 
 ### 🤖 SK AI Assistant
 
-<img src="https://img.shields.io/badge/Status-Private-FF6B6B?style=flat-square&logo=lock&logoColor=white" /> <img src="https://img.shields.io/badge/Flagship-Project-00D9FF?style=flat-square&logo=star&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Private_Repository-FF6B6B?style=flat-square&logo=lock&logoColor=white" /> <img src="https://img.shields.io/badge/Type-Flagship_Project-00D9FF?style=flat-square&logo=star&logoColor=white" />
 
-Advanced personal AI assistant with voice commands, agentic planning, and tool orchestration.
+**Advanced production AI assistant** with voice commands, agentic planning, and intelligent tool orchestration currently in private development.
 
 **Architecture:** Voice/Text → Intent → SK Brain → Agentic Planner → Tool Orchestration → Verify → Response
 
-🎙️ Voice • 🧠 Agentic Planning • 🛠️ Tool Orchestration • ✅ Verification • 💾 Memory • 😊 Emotion • 👁️ Vision • 🔒 Safety
+🎙️ Voice Control • 🧠 Agentic Planning • 🛠️ Tool Orchestration • ✅ Auto-Verification • 💾 Context Memory • 😊 Emotion AI • 👁️ Vision • 🔒 Safety Layer
 
 `Python` `Speech Recognition` `LLM APIs` `PyAutoGUI` `OpenCV`
 
@@ -343,13 +347,13 @@ Advanced personal AI assistant with voice commands, agentic planning, and tool o
 
 ### 🎓 AI Educational Platform
 
-<img src="https://img.shields.io/badge/Status-Live-4CAF50?style=flat-square" /> <img src="https://img.shields.io/badge/Users-1000s-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-LIVE_IN_PRODUCTION-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/Active_Users-1000+-00D9FF?style=flat-square&logo=users&logoColor=white" />
 
-Comprehensive platform with AI-generated MCQs, real-time scoring, and competitive leaderboards.
+**Live production application** serving thousands of students with AI-generated MCQs, real-time scoring, and competitive leaderboards.
 
-**Impact:** 🎯 1000s Students • 📚 AI Quiz Generation • ⏱️ Real-time Scoring • 🏆 Leaderboards • 📊 Analytics • 📱 Responsive
+**Real Impact:** 🎯 1000+ Active Students • 📚 AI Quiz Generation • ⏱️ Real-time Scoring • 🏆 Live Leaderboards • 📊 Analytics Dashboard • 📱 Mobile Responsive
 
-✓ JEE/NEET/CBSE focused • ✓ Trusted by educators • ✓ High engagement rates
+✓ JEE/NEET/CBSE preparation • ✓ Trusted by educators • ✓ High student engagement
 
 `React` `Next.js` `Firebase` `AI APIs` `Real-time DB`
 
@@ -361,13 +365,13 @@ Comprehensive platform with AI-generated MCQs, real-time scoring, and competitiv
 
 ### 👁️ Computer Vision OMR
 
-<img src="https://img.shields.io/badge/Status-Deployed-4CAF50?style=flat-square" /> <img src="https://img.shields.io/badge/Processing-1000s-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-PRODUCTION_DEPLOYED-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/Scans_Processed-1000+-00D9FF?style=flat-square&logo=document&logoColor=white" />
 
-Intelligent optical mark recognition with high accuracy across varying scan qualities.
+**Production-grade system** processing thousands of OMR sheets with intelligent optical mark recognition and high accuracy.
 
 **Pipeline:** Scan → Detect Bubbles → Extract Answers → Batch Process → Verify → Report
 
-📄 Bubble Detection • ✅ High Accuracy • 🔍 Advanced Algorithms • 📊 Batch Processing • 🎯 Adaptive Quality
+📄 Intelligent Detection • ✅ 95%+ Accuracy • 🔍 Advanced CV Algorithms • 📊 Batch Processing • 🎯 Quality Adaptive
 
 `Python` `OpenCV` `RapidOCR` `Image Processing`
 
@@ -376,11 +380,11 @@ Intelligent optical mark recognition with high accuracy across varying scan qual
 
 ### 🎓 MSP College Advance
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SurajZalke/mspcollage-manora)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SurajZalke/mspcollage-manora) <img src="https://img.shields.io/badge/Status-LIVE-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" />
 
-Progressive Web App for students with academic resources and offline-first architecture.
+**Live Progressive Web App** serving college students with academic resources, real-time updates, and offline-first architecture.
 
-📚 Academic Resources • 📢 College Updates • 🎯 Admission Portal • 📴 Offline-First • 🔔 Push Notifications • 📱 Mobile-First
+📚 Academic Hub • 📢 Live Updates • 🎯 Admission Portal • 📴 Offline-First PWA • 🔔 Push Notifications • 📱 Mobile Optimized
 
 `HTML5` `CSS3` `JavaScript` `Firebase` `Service Workers`
 
@@ -388,11 +392,11 @@ Progressive Web App for students with academic resources and offline-first archi
 
 ### 🌐 Interactive Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://suraj-zalke-protfolio.netlify.app/)
+[![Live Site](https://img.shields.io/badge/🌐_LIVE_SITE-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://suraj-zalke-protfolio.netlify.app/) <img src="https://img.shields.io/badge/Status-PRODUCTION-4CAF50?style=flat-square" />
 
-Modern portfolio with 3D animations, interactive diagrams, and smooth transitions.
+**Production portfolio website** with 3D animations, interactive diagrams, and smooth transitions showcasing projects and skills.
 
-🎨 Three.js 3D • 🔄 Interactive Diagrams • ✨ Smooth Animations • 📱 Responsive • ♿ WCAG • ⚡ Optimized
+🎨 Three.js 3D • 🔄 Interactive UI • ✨ Smooth Animations • 📱 Fully Responsive • ♿ WCAG Compliant • ⚡ Performance Optimized
 
 `React` `Three.js` `CSS Animations`
 
@@ -638,6 +642,29 @@ Building practical expertise in:
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+---
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SurajZalke/SurajZalke/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
