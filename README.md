@@ -456,10 +456,21 @@ Automated messaging with bulk operations, scheduling, and intelligent contact ma
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajZalke&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
+<br/>
+
+### 🏅 GitHub Achievements
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.icons8.com/fluency/64/00D9FF/pull-request.png" width="48"/><br/>**Contributor**<br/><sub>Active Code Contributor</sub> | <img src="https://img.icons8.com/fluency/64/FF6B6B/star.png" width="48"/><br/>**Star Gazer**<br/><sub>Quality Projects</sub> | <img src="https://img.icons8.com/fluency/64/4CAF50/code.png" width="48"/><br/>**Builder**<br/><sub>5+ Major Projects</sub> | <img src="https://img.icons8.com/fluency/64/FFD21E/medal.png" width="48"/><br/>**Production**<br/><sub>1000s of Users</sub> |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Commits-64+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+<img src="https://img.shields.io/badge/Contributions-86+-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+<img src="https://img.shields.io/badge/Current_Streak-2_days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak" />
+<img src="https://img.shields.io/badge/Longest_Streak-6_days-FFD21E?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak" />
+<img src="https://img.shields.io/badge/Languages-8-7B2FFD?style=for-the-badge&logo=github&logoColor=white" alt="Languages" />
 
 </div>
 
